@@ -1,0 +1,25 @@
+#pageTitle{
+  width: 100%;
+  background-color: black;
+  color: white;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+#directory
+{
+  background-color: gray;
+  color: white;
+  padding: 10px;
+}
+
+#dir1{
+  padding: 0px 10px;
+}
+#dir2{
+  padding: 0px 10px;
+}
+#dir3{
+  padding: 0px 10px;
+}
